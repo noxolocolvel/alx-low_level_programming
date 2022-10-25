@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * reset to 98 function- take a pointer to an int as parameter and change its value to 98
+ * reset to 98- take a pointer to an int as parameter and change pointer  value to 98
  * @n: n which is pointer
  * return: void
 */
