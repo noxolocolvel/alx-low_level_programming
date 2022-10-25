@@ -4,12 +4,12 @@
 /**
  * _strlen - function that the length of a string
  * @s: pointer
- * return: void
+ * return: i is the return value
 */
 
 int _strlen(char *s)
 {
-	int = 0;
+	int i = 0;
 
 	while (s[i] != '\0')
 	{
